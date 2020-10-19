@@ -1,0 +1,10 @@
+E Lucy 1995
+D John 1187 Gastro
+N Julia 1254 4
+A Catherine 4125 Management
+R Alice 4101 Talking Y
+J David 4789 Maintenance N
+D Samuel 4891 Radiology
+S Steve 4345 Brain Y
+R Jacob 4123 Talking N
+S John 2999
